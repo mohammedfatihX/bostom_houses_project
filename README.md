@@ -1,7 +1,7 @@
 #Boston Houses Project
 
 
->  project **Boston Housing** :
+## project **Boston Housing** :
     - nous lançons le projet en utilisant toutes les "feature" fournies, puis nous entraînons le modèle. Toutes les notes sont écrites dans le fichier "first_training.ipynb"
     - le le score du project pour la premiere execution est 73%
     - MAE: 3.5965040304338713
