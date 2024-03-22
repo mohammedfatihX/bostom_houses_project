@@ -15,4 +15,4 @@
         - le troisieme option : retire les colonne qui aucune effect sur colonne **medv** , j'ai test 3 colonne mais aucune result optimise 
 
 
-            * mais a la fin j'ai choisi l'option "scale", Vous trouverez le résultat dans "opt_training.ipynb".
+         mais a la fin ** j'ai choisi l'option "scale" **, Vous trouverez le résultat dans "opt_training.ipynb".
